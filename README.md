@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**kibirangoRichardCalvin1/kibirangoRichardCalvin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Kibs 👋
 
-Here are some ideas to get you started:
+### Kibirango Richard Calvin | Information Technology Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Dream. Build. Innovate.**
+
+I'm an IT student passionate about technology and building practical digital solutions. I enjoy learning through hands-on projects and continuously developing my technical skills.
+
+## 🚀 Areas of Interest
+
+- Web Development
+- Database Management
+- Computer Networking
+- Application Development
+- IT Support
+
+## 🛠️ Technical Skills
+
+- **Languages:** HTML, CSS, JavaScript, Java, SQL
+- **Frontend:** React.js, Vite
+- **Databases:** MySQL, Supabase
+- **Networking:** IP Addressing, Subnetting, LAN Setup, DNS, DHCP and Network Troubleshooting
+
+## 🌐 My Portfolio
+
+Explore my projects, technical skills and IT journey:
+
+[Visit Kibs IT Portfolio](https://kibirangorichardcalvin1.github.io/kibs-portfolio/)
+
+## 🎯 My Philosophy
+
+Learn continuously. Build practically. Create impact.
